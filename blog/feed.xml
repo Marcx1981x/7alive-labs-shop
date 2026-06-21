@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7Alive Labs Blog</title>
+    <link>https://marcx1981x.github.io/7alive-labs-shop/blog/</link>
+    <description>Tipps zu Suno AI, Schweizer Budget-Excel und Freelancer-Tools von 7Alive Labs.</description>
+    <language>de</language>
+    <lastBuildDate>Sat, 21 Jun 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://marcx1981x.github.io/7alive-labs-shop/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DACH Freelancer Bundle – 3 Tools für 29€</title>
+      <link>https://marcx1981x.github.io/7alive-labs-shop/blog/freelancer-bundle.html</link>
+      <guid isPermaLink="true">https://marcx1981x.github.io/7alive-labs-shop/blog/freelancer-bundle.html</guid>
+      <pubDate>Sat, 21 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Budget Excel, Rechnungsvorlage und Kassenbon-Scanner zusammen – einmalig 29€ statt 33€.</description>
+    </item>
+    <item>
+      <title>Kassenbon-Foto → CSV: BelegScan für Freelancer</title>
+      <link>https://marcx1981x.github.io/7alive-labs-shop/blog/belegscan.html</link>
+      <guid isPermaLink="true">https://marcx1981x.github.io/7alive-labs-shop/blog/belegscan.html</guid>
+      <pubDate>Wed, 18 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Python + OpenAI Vision für Migros, Coop, Aldi – 3 Scans/Tag gratis.</description>
+    </item>
+    <item>
+      <title>Haushaltsbudget Excel 2026 für die Schweiz</title>
+      <link>https://marcx1981x.github.io/7alive-labs-shop/blog/budget-excel.html</link>
+      <guid isPermaLink="true">https://marcx1981x.github.io/7alive-labs-shop/blog/budget-excel.html</guid>
+      <pubDate>Wed, 18 Jun 2026 09:00:00 +0000</pubDate>
+      <description>11 Kategorien, CHF/EUR, Auto-Summen – ohne Abo, einmalig 9€.</description>
+    </item>
+    <item>
+      <title>50 Suno AI Prompts die wirklich funktionieren (v4.5)</title>
+      <link>https://marcx1981x.github.io/7alive-labs-shop/blog/suno-prompts.html</link>
+      <guid isPermaLink="true">https://marcx1981x.github.io/7alive-labs-shop/blog/suno-prompts.html</guid>
+      <pubDate>Wed, 18 Jun 2026 08:00:00 +0000</pubDate>
+      <description>Wie ich Prompts für Dance Pop, Thai Pop und Lo-Fi strukturiere – plus 10 gratis zum Testen.</description>
+    </item>
+  </channel>
+</rss>

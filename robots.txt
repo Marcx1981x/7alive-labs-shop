@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://marcx1981x.github.io/7alive-labs-shop/sitemap.xml
+Disallow: /
